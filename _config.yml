@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
-timezone:
+title: Dango's Blog
+subtitle: Site about my life and dream.
+description:  Dango's Blog
+author: Dango Plus
+language: Chinese
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: http://dangoplus.github.io
+root: /HexoBlog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -68,4 +68,5 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:DangoPlus/HexoBlog.git
