@@ -1,7 +1,7 @@
 ---
 title: A LOVE LETTER
 date: 2017-04-15 21:04:16
-tags:
+tags: misc
 ---
 ```CPP
 if (you.hand == cold && weather == winter){

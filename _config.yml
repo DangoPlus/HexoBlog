@@ -5,9 +5,9 @@
 # Site
 title: Dango's Blog
 subtitle: Site about my life and dream.
-description:  Dango's Blog
+description:  琐碎之言何足挂齿。
 author: Dango Plus
-language: zh-CN
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
